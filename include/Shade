@@ -1,0 +1,9 @@
+#pragma once
+
+#include <ShadeConfig.hh>
+#include <ShadeMath.hh>
+#include <ShadeTraceRecord.hh>
+#include <ShadeObject.hh>
+#include <ShadeAccelerate.hh>
+#include <ShadeMesh.hh>
+#include <ShadeRender.hh>

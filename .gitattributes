@@ -1,0 +1,2 @@
+tex/*.ppm filter=lfs diff=lfs merge=lfs -text
+progressive/*.gif filter=lfs diff=lfs merge=lfs -text
